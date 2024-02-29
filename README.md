@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет! Это <a href="https://github.com/bogomazov11" target="_blank">kachok123</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-### Hi there 👋
-
-## Hi, It's [bogomazov11]
+<h3 align="center">Computer science student. 🇷🇺</h3>
 
 ## I'm Backend Python developer
 
